@@ -1,0 +1,19 @@
+{
+  "name": "omgpress/phpdocumentor-template",
+  "version": "0.1.0",
+  "type": "phpdocumentor-template",
+  "description": "Custom template for phpDocumentor",
+  "homepage": "https://github.com/omgpress/phpdocumentor-template",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "OmgPress",
+      "email": "hello@omgpress.com",
+      "homepage": "https://omgpress.com"
+    }
+  ],
+  "keywords": [
+    "phpdocumentor",
+    "phpdocumentor-template"
+  ]
+}
