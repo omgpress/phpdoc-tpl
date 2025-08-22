@@ -1,9 +1,9 @@
 {
-  "name": "omgpress/phpdocumentor-template",
+  "name": "omgpress/phpdoc-tpl",
   "version": "0.1.0",
   "type": "phpdocumentor-template",
   "description": "Custom template for phpDocumentor",
-  "homepage": "https://github.com/omgpress/phpdocumentor-template",
+  "homepage": "https://github.com/omgpress/phpdoc-tpl",
   "license": "GPL-2.0-or-later",
   "authors": [
     {
