@@ -1,4 +1,4 @@
-OmgPress phpDocumentor Template
+# OmgPress phpDocumentor Template
 
 Custom template for phpDocumentor
 
